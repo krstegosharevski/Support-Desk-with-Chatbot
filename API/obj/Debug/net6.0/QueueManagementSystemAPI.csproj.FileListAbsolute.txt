@@ -1,0 +1,160 @@
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.staticwebassets.runtime.json
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.exe
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.deps.json
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.runtimeconfig.json
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.pdb
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.csproj.AssemblyReference.cache
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.AssemblyInfoInputs.cache
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.AssemblyInfo.cs
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.csproj.CoreCompileInputs.cache
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.RazorAssemblyInfo.cache
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.RazorAssemblyInfo.cs
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.QueueManagementSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.QueueManagementSystemAPI.props
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QueueManagementSystemAPI.props
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QueueManagementSystemAPI.props
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\scopedcss\bundle\QueueManagementSystemAPI.styles.css
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\scopedcss\projectbundle\QueueManagementSystemAPI.bundle.scp.css
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueMan.CDCA76C8.Up2Date
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\refint\QueueManagementSystemAPI.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.pdb
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.genruntimeconfig.cache
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\obj\Debug\net6.0\ref\QueueManagementSystemAPI.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\krsst\source\repos\QueueManagementSystemAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Data\UserSeedData.json
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\appsettings.json
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Data\UserSeedData.json
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.staticwebassets.runtime.json
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.exe
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.deps.json
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.runtimeconfig.json
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\QueueManagementSystemAPI.pdb
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.csproj.AssemblyReference.cache
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.AssemblyInfoInputs.cache
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.AssemblyInfo.cs
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.csproj.CoreCompileInputs.cache
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.RazorAssemblyInfo.cache
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.RazorAssemblyInfo.cs
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.QueueManagementSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.QueueManagementSystemAPI.props
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QueueManagementSystemAPI.props
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QueueManagementSystemAPI.props
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\scopedcss\bundle\QueueManagementSystemAPI.styles.css
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\scopedcss\projectbundle\QueueManagementSystemAPI.bundle.scp.css
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueMan.CDCA76C8.Up2Date
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\refint\QueueManagementSystemAPI.dll
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.pdb
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\QueueManagementSystemAPI.genruntimeconfig.cache
+E:\Vo tek Aplickacii Firma\SupportDeskAPI\QueueManagementSystemAPI\obj\Debug\net6.0\ref\QueueManagementSystemAPI.dll

@@ -1,0 +1,43 @@
+.custom-color{
+    background-color: #1a7b99;
+    color: white;
+}
+
+.container{
+    background-color: #eceff2;
+}
+
+.btn-custome{
+    background-color: #c8c8c6;
+}
+
+.btn-custome:hover{
+    background-color: #ccc96b;
+    color: white;
+}
+
+.card-body {
+    height: 150px; /* Поставете ја висината по ваша желба */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-designt{
+    background-color: #ccc96b;
+    width: 115px; /* Поставете ја ширината по ваша желба */
+    height: 30px; /* Поставете ја висината по ваша желба */
+    display: inline-flex; /* Ова овозможува флексибилност на копчето */
+    align-items: center; /* Центрира текстот вертикално */
+    justify-content: center; /* Центрира текстот хоризонтално */
+    border: none; /* Опционално, за да не се гледа рамка */
+    border-radius: 5px; /* Опционално, за да се заоблатат аглите */
+    color: white; /* Боја на текстот */
+}
+
+.btn-designt:hover{
+    background-color: #dfdda0;
+    color: white;
+}
+

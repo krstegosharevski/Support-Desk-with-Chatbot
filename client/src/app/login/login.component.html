@@ -1,0 +1,63 @@
+<div class="navbar ps-4">
+    <button class="btn btn-back" [routerLink]="['/']">Back</button>
+</div>
+
+<div class="container">
+    
+	<div class="screen">
+        
+		<div class="screen__content">
+			<form #loginForm="ngForm" class="login" (ngSubmit)="login()" autocomplete="off">
+				<div class="login__field">
+					<i class="login__icon fas fa-user"></i>
+					<input 
+						name="username"
+						[(ngModel)]="model.username"
+						type="text" 
+						class="login__input" 
+						placeholder="Username">
+				</div>
+				<div class="login__field">
+					<i class="login__icon fas fa-lock"></i>
+					<input 
+						name="password"
+						[(ngModel)]="model.password"
+						type="password" 
+						class="login__input" 
+						placeholder="Password">
+				</div>
+				<div class="login__field">
+                    <i class="login__icon fas fa-user-tag"></i>
+                    <select 
+                        name="role"
+                        [(ngModel)]="model.selectedRole"
+                        class="login__input">
+                        <option value="0">MEMBER</option>
+                        <option value="1">ADMIN</option>
+                        <option value="2">HANDLER</option>
+                    </select>
+                </div>
+				
+				<button  class="button login__submit" type="submit" >
+					<span class="button__text">Log in</span>
+				</button>				
+			</form>
+			<!-- class="social-login"  ova vo div odma pod mene.-->
+			<div>
+				<h3 class=" heading-styled m-2 pt-4" style="color: black;">Support Desk &reg;</h3>
+			</div>
+		</div>
+		<div class="register-link">
+			<h6 class="py-1">Don't have an accout? <a [routerLink]="['/register']"> Create new account</a></h6>
+		</div>
+		
+		<div class="screen__background">
+			
+			<span class="screen__background__shape screen__background__shape4"></span>
+			<span class="screen__background__shape screen__background__shape3"></span>		
+			<span class="screen__background__shape screen__background__shape2"></span>
+			<span class="screen__background__shape screen__background__shape1"></span>				
+		</div>		
+	</div>
+</div>
+

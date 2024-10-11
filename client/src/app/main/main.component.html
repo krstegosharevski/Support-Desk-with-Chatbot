@@ -1,0 +1,121 @@
+<app-nav></app-nav>
+
+<!-- <div class="container mt-4">
+    <div class="row pt-4">
+        <div class="col" >
+            <div class="p-2 text-center" style="background-color:#f5f7f8;">
+              <h1></h1> 
+              <div class="p-1 mt-4 custom-color">
+                <h3></h3>
+              </div>
+              <div *appHasRole="['Admin']" class="text-center p-3" style="background-color: #C7C5F4;">
+                <button    class="btn btn-success me-2">
+                    Обслужи
+                  </button>
+                <button class="btn btn-danger">
+                  Затвори
+                </button>
+              </div>
+            </div>
+          </div>        
+    </div>
+</div> -->
+<div class=" mt-4 pt-4" *ngIf="status == 0">
+  <div class="row text-center pt-4">
+    <h2>WELCOME TO THE OFFICIAL WEBSITE OFF THE </h2>
+    <h1><b>SUPPORT DESK</b></h1>
+    <h3>...</h3>
+  </div>
+</div>
+
+
+<div class="container mt-4" *ngIf="status==1">
+  <div class="row mt-4 pt-4">
+    <div class="col">
+      <table class="table">
+        <thead>
+          <tr>
+            <th style="background-color: #1a7b99; color: white;" scope="col">Name</th>
+            <th style="background-color: #1a7b99; color: white;" scope="col">User</th>
+            <th style="background-color: #1a7b99; color: white;" scope="col">Date created</th>
+            <th style="background-color: #1a7b99; color: white;" scope="col">Response</th>
+            <th style="background-color: #1a7b99; color: white;" scope="col">Status</th>
+            <th style="background-color: #1a7b99; color: white;" scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let ticket of tickets" (click)="onTicketClick(ticket.ticketId)">
+            <td scope="row">{{ticket.title}}</td>
+            <td>{{findTicketUser(ticket.createdById)}}</td>
+            <td>{{ticket.generatedTime | date: 'yyyy.MM.dd'}}</td>
+            <td>
+              <span *ngIf="ticket.response; else noResponse">
+                {{ ticket.response }}
+              </span>
+              <ng-template #noResponse>
+                /
+              </ng-template>
+            </td>
+            <td>{{getStatusLabel(ticket.status)}}</td>
+            <td><button class="btn btn-designt">Open</button></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class="row" *ngIf="status == 1">
+    <div class="col d-flex justify-content-end align-items-center">
+      <button class="btn btn-custome m-3 p-4" routerLink="/numbergenerator">Generate ticket</button>
+    </div>
+  </div>
+</div>
+
+
+<div class="container mt-4" *ngIf="role === 1">
+  <div class="row mt-4 pt-4">
+    <div class="col">
+      <h5>Approve new members</h5>
+      <table class="table">
+        <thead>
+          <tr>
+            <th style="background-color: #1a7b99; color: white;" scope="col">Name</th>
+            <th style="background-color: #1a7b99; color: white;" scope="col">Surname</th>
+            <th style="background-color: #1a7b99; color: white;" scope="col">Username</th>
+            <th style="background-color: #1a7b99; color: white;" scope="col">Project</th>
+            <th style="background-color: #1a7b99; color: white;" scope="col">Approve members</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let us of usersToBeApproved" >
+            <td>{{us.name}}</td>
+            <td>{{us.surname}}</td>
+            <td>{{us.userName}}</td>
+            <td>
+              <!-- Опаѓачка листа за избор на проект -->
+              <select [(ngModel)]="us.projectId" class="form-control">
+                  <option *ngFor="let project of projects" [value]="project.id">
+                      {{ project.projectName }}
+                  </option>
+              </select>
+          </td>
+            <td><button (click)="approveNewMember(us.userName, us.projectId)" class="btn btn-designt">Approve</button></td>
+          </tr>
+        </tbody>
+      </table>
+      <div >
+        <!-- <h3>Admin site</h3> -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- <div *ngIf="projects.length > 0">
+  <div *ngFor="let project of projects">
+    {{project.projectName}}
+  </div>
+</div>
+<div *ngIf="projects.length === 0">
+  No projects found.
+</div> -->
+
+<app-footer></app-footer> 

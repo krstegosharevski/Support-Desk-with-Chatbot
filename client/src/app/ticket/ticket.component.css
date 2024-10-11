@@ -1,0 +1,98 @@
+.btn-custome{
+    background-color: #c8c8c6;
+}
+
+.btn-custome:hover{
+    background-color: #ccc96b;
+    color: white;
+}
+
+.custom-select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    font-size: 16px;
+    color: #333;
+    width: 30%;
+    appearance: none; /* го отстранува стандардниот изглед на browser-от */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjQzZDQzY5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMHB4IiBoZWlnaHQ9IjEwcHgiIHZpZXdCb3g9IjAgMCAxMCAxMCI+PHBhdGggZD0iTTUgMTBsNSA1VjloLTl2LTVMMCAwTDUgNUwwIDBsLTUgNUg5eiIvPjwvc3ZnPg=='); /* стрелка надолу икона */
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 10px 10px;
+}
+
+.custom-select:focus {
+    outline: none;
+    border-color: #666;
+}
+
+
+.comments-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    align-items: center; /* Центрирање на коментарите */
+}
+
+.comment-card {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 16px;
+    width: 70%; /* Намалена ширина за потесен изглед */
+    max-width: 600px; /* Ограничена максимална ширина */
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.comment-card:hover {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+.comment-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.comment-text {
+    font-size: 16px;
+    color: #333;
+    font-weight: 500;
+}
+
+.comment-footer {
+    text-align: right;
+}
+
+.comment-time {
+    font-size: 12px;
+    color: #999;
+}
+
+.new-comment-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+    width: 85%; /* Исто како коментарите */
+    max-width: 700px;
+    align-items: flex-end;
+}
+
+.comment-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    resize: none; /* Да не се зголемува текстуалното поле */
+}

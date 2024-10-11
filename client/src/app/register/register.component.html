@@ -1,0 +1,70 @@
+<div class="navbar ps-4">
+    <button class="btn btn-back" [routerLink]="['/']">Back</button>
+</div>
+
+<div class="container ">
+    <div class="screen">
+        <div class="screen__background">
+            <span class="screen__background__shape screen__background__shape4"></span>
+            <span class="screen__background__shape screen__background__shape3"></span>
+            <span class="screen__background__shape screen__background__shape2"></span>
+            <span class="screen__background__shape screen__background__shape1"></span>
+        </div>
+        
+        <div class="screen__content">
+            <div>
+                <h2 style="color: black; font-size: large;">Create your account . . . </h2>
+            </div>
+            
+            <form #loginForm="ngForm" class="login" (ngSubmit)="register()" autocomplete="off">
+                
+                <div class="login__field">
+                    <i class="login__icon fas fa-user"></i>
+                    <input type="text"
+                        class="login__input"
+                        name="username"
+                        [(ngModel)]="model.username"
+                        placeholder="Username"
+                    >  
+                </div>
+
+                <div class="login__field">
+                    <i class="login__icon fas fa-lock"></i>
+                    <input type="password"
+                        class="login__input"
+                        name="password"
+                        [(ngModel)]="model.password"
+                        placeholder="Password"
+                    > 
+                </div>
+
+                <div class="login__field">
+                    <i class="login__icon fas fa-user"></i>
+                    <input type="text"
+                        class="login__input"
+                        name="name"
+                        [(ngModel)]="model.name"
+                        placeholder="Name"
+                    >  
+                </div>
+                <div class="login__field">
+                    <i class="login__icon fas fa-lock"></i>
+                    <input type="text"
+                        class="login__input"
+                        name="lastName"
+                        [(ngModel)]="model.lastName"
+                        placeholder="Surname"
+                    > 
+                </div>
+                
+                
+                <button class="button login__submit" type="submit">
+                    <span class="button__text">Sign up</span>
+                </button>   
+            </form>
+            <div class="social-login">
+                <h3 class="heading-styled">Support Desk &reg;</h3>   
+            </div>
+        </div>
+    </div>
+</div>

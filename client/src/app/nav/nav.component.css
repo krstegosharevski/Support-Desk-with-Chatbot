@@ -1,0 +1,13 @@
+.btn-custome{
+    background-color: #c8c8c6;
+}
+
+.btn-custome:hover{
+    background-color: #ccc96b;
+    color: white;
+}
+
+.navbar-brand{
+    font-size: large;
+    font-family: 'Syncopate', sans-serif; /* Избор на фонт */
+}

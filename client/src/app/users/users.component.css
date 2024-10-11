@@ -1,0 +1,26 @@
+.extra-small-text{
+    font-size: 0.75rem;
+}
+.blue-thead th {
+    background-color: #425983 !important;
+    color: white !important; 
+}
+.form-inline {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Space between rows */
+  }
+  .form-inline label {
+    margin-right: 10px; /* Space between label and input */
+  }
+  .form-control {
+    width: 200px; /* Adjust width as needed */
+  }
+
+  table thead .thead-blue tr{
+    background-color: #425983 !important;
+}
+
+.extra-extra-small-text{
+    font-size: 0.65rem;
+}

@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;	
+	font-family: Raleway, sans-serif;
+}
+
+body {
+	background: linear-gradient(90deg, #ffffff, #f9f7e8);		
+	
+}
+
+body, p, h1, h2, h3, h4, h5,  b, th, select, option, label{
+	font-family: 'Syncopate', sans-serif;
+}
+
+body, .btn, .button__text, .k{
+	font-family: 'Syncopate', sans-serif;
+	font-size: small;
+}

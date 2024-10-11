@@ -1,0 +1,27 @@
+:host {
+    display: block;
+    width: 100%;
+  }
+  
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #f5f7f8;
+    padding: 10px 0;
+  }
+  
+  .footer hr {
+    margin: 0;
+    border: none;
+    border-top: 1px solid #ccc;
+  }
+  
+  .footer p {
+    margin: 5px 0;
+    color: #333;
+  }
+
+
+  
